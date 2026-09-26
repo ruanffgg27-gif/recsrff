@@ -1,0 +1,12 @@
+streamlit>=1.52
+pandas>=2.0
+openpyxl>=3.1
+xlrd>=2.0
+matplotlib>=3.7
+scipy>=1.10
+shapely>=2.0
+pyproj>=3.4
+pyshp>=2.3
+requests>=2.28
+pillow>=9.0
+rasterio>=1.3
